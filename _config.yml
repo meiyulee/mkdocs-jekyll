@@ -23,15 +23,15 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
-baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/zerotoonelearnda2024" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://meiyulee.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/meiyulee/mkdocs-jekyll"
+repo: "https://github.com/meiyulee/zerotoonelearnda2024"
 github_user: "Mei-Yu Lee"
-github_repo: "mkdocs-jekyll"
+github_repo: "zerotoonelearnda2024"
 
 # Optional
 twitter: meiyulee357
