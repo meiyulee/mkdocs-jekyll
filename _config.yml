@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MkDocs Documentation Jekyll
+title: 從零開始學數據分析
 email: your-email@domain.com
-author: Dinosaur Avocado
+author: Mei-Yu Lee
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  為非資訊專業人員所寫的AI職能發展方向系列書籍
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
@@ -26,16 +26,16 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/mkdocs-jekyll" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://vsoch.github.io" # the base hostname & protocol for your site
+url: "https://meiyulee.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/mkdocs-jekyll"
-github_user: "vsoch"
+repo: "https://github.com/meiyulee/mkdocs-jekyll"
+github_user: "Mei-Yu Lee"
 github_repo: "mkdocs-jekyll"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
+twitter: meiyulee357
+linkedin: meiyulee
 dockerhub: vanessa
 # google-analytics: G-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
@@ -55,13 +55,13 @@ tag_color: danger # danger, success, warning, primary, info, secondary
 # Add a page at /forum to list a set of discourse topics. The site needs
 # to enable "embed topics" setting
 # https://meta.discourse.org/t/embedding-a-list-of-discourse-topics-in-another-site/125911
-discourse_site: "https://ask.cyberinfrastructure.org" 
+discourse_site: "" 
 discourse_per_page: 10
-discourse_category: "stanford-research-computing"
+discourse_category: ""
 discourse_tags: null # comma separated string, leave null to not filter
 
-accentColor: red # purple, green, etc.
-themeColor: red # purple, green, blue, orange, purple, grey
+accentColor: grey # purple, green, etc.
+themeColor: blue # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
