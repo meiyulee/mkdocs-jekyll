@@ -1,5 +1,5 @@
 ---
-title: Discussion Forum
+title: 論壇
 permalink: /forum/
 ---
 
