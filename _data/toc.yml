@@ -1,5 +1,5 @@
-- title: "Getting Started"
-  url: "docs/getting-started"
+- title: "書籍簡介"
+  url: "about"
   children:
     - title: Features
       url: "docs/getting-started#getting-started"
@@ -7,16 +7,16 @@
       url: "docs/getting-started#development"
     - title: Customization
       url: "docs/getting-started#customization"
-- title: "Extras"
-  url: "docs/extras"
+- title: "第一章"
+  url: "docs/chapter1"
   children:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Discussion Forum
+    - title: 初學者對數據分析的基礎認識
+      url: "docs/chapter1/S1"
+    - title: 過去的教育方式限制了我們學習數據分析
       url: "forum"
     - title: Interactive Code
       url: "docs/extras/interactive"
-- title: "About"
-  url: "about"
-- title: "News"
-  url: "news"
+- title: "第二章"
+  url: "docs/chapter2"
+- title: "第三章"
+  url: "docs/chapter3"
