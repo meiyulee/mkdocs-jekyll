@@ -1,21 +1,27 @@
 ---
-title: About
+title: 關於本書
 permalink: /about/
 ---
 
-# About
+# 關於
 
-This is a starter template for a mkdocs jekyll theme, based on these two
-previous beauties:
+這是一本有關從零開始學數據分析的中文書籍。作者以非資訊專業人員的角度，從數據分析開始建構非資訊專業人員從過去教育經歷中所得到的知識開始講述初學者學習數據分析的基本觀念、心態視角、認識「數據為基礎、分析方法為核心、工具為輔助」，做到「真正讓數據自己說話」的數據驅動結果。重新詮釋數據分析的架構與發展方向，為非資訊專業人員的AI職能培訓先行建立基礎觀念。
 
- - [alexcarpenter/material-jekyll-theme](http://alexcarpenter.github.io/material-jekyll-theme)
- - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+## 延伸
 
-Specifically, I wanted a completely jekyll-based template that would render
-markdown docs, deployed on GitHub pages, and set up with easy customization
-and preview.
+本書為「AI數據分析基礎課程」與非資訊專業人員之「AI職能發展」數據分析系列課程的先修課程。
 
-## Support
+由於多數的非資訊專業人員未必接觸數據分析，或者接觸時直接以商業智慧(BI)或圖像可視化技術為入門，造成對人工智慧或數據分析的認知偏差。加上多數數據分析課程以電腦科學角度進行教學，對非資訊專業人員過往所學較難以銜接。所以這本書是先行為非資訊專業人員做銜接課程所用的基礎知識內容。
 
-If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_repo }}/{{ site.github_user }}).
+閱讀完這本書後，可以銜接「AI職能發展」之數據分析系列課程，包含但不限以下
+
+1. AI數據分析基礎課程(線上/實體)
+2. AI數據分析投資理財實務與應用
+3. AI數據分析財務報表分析
+4. AI數據分析總體經濟指標實務與應用
+5. AI數據分析農業指標應用
+6. AI數據分析基金分析實務與應用
+
+AI數據分析基礎課程(線上)由智慧數據分析實驗室發立時數證明
+AI數據分析基礎課程(實體)由南台科技大學推廣教育中心、中華大學管理學院發立證明
 
