@@ -1,43 +1,21 @@
 ---
 layout: page
-title: Material Jekyll Theme
+title: 書籍簡介
 permalink: /
 ---
 
-# Welcome to MkDocs Jekyll
+《從零開始學數據分析》是一本專為非資訊專業人員、數據分析初學者、研究生及工作上需要進行數字分析的人士量身打造的實用指南。本書涵蓋了數據分析的基礎知識、基本技術以及如何有效應用這些技術來解決實際問題。通過系統化的教學，讀者可以逐步建立數據分析的基本觀念，並學會運用AI數據分析工具MathAI進行更高階的數據建模和分析。
 
-This is a starter template for a mkdocs jekyll theme.
+目錄中的每一章節都精心設計，旨在幫助讀者從零開始掌握數據分析技能：
 
-![assets/img/macbook-preview.png](assets/img/macbook-preview.png)
+- **第一章 基礎概念**：了解數據分析的基本認識，學習數據分析的目標與流程，打好堅實的理論基礎。
 
-## Purpose
+- **第二章 數據分析的基本技術**：深入探討數據類型與對應的分析方法，掌握時間序列資料、數據造假識別等關鍵技術。
 
-GitHub pages uses Jekyll natively, so when I make documentation, I typically
-look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
-and allow for users to easily contribute, and build automatically just by
-way of pushing to a master branch (or general GitHub pages).
-I've liked MkDocs in the past, but it required me to use a special renderer.
-I also felt limited in my ability to customize it. The same is true for
-mkdocs material. It's absolutely gorgeous, but was not suited for
-my GitHub pages and customization needs. For this reason, I've spent
-some time creating a custom Jekyll template that is (almost) as beautiful,
-and includes all the features that I might want.
+- **第三章 行動指南**：提供實用的每日練習和觀察方法，幫助讀者建立穩固的數據分析習慣，避免初學者常見的誤區。
 
-## Features
+- **第四章 AI與數據分析**：探討AI在數據分析中的應用與挑戰，了解數據分析與數據處理的區別，學習迴歸分析等AI技術。
 
-What are these features? You should see the {% include doc.html name="Getting Started" path="getting-started" %}
-guide for a complete summary. Briefly:
+- **第五章 趨勢分析與應用**：學習如何使用趨勢分析法理解數據，探索數據之間的關係，掌握AI數據分析的趨勢應用與時間追蹤方法。
 
- - *User interaction* including consistent permalinks, links to ask questions via GitHub issues, and edit the file on GitHub directly.
- - *Search* across posts, documentation, and other site pages, with an ability to exclude from search.
- - *External Search* meaning an ability to link any page tag to trigger an external search.
- - *Documentation* A documentation collection that was easy to organize on the filesystem, render with nested headings for the user, and refer to in markdown.
- - *Pages* A separate folder for more traditional pages (e.g, about).
- - *Navigation*: Control over the main navigation on the left of the page, and automatic generation of table of contents for each page on the right.
- - *News* A posts feed for news and updates, along with an archive (organized by year).
- - *Templates* or specifically, "includes" that make it easy to create an alert, documentation link, or other content.
- - *Continuous Integration* recipes to preview the site
-
-
-For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
-[Open an issue]({{ site.repo }}/issues)
+本書的寫作目的在於幫助讀者先建立數據分析的基本觀念，然後再進一步學習MathAI for numerical modelling軟體，從而實現數據分析到AI數據分析的飛躍。無論您是數據分析的新手還是希望提升技能的專業人士，本書都將是您不可或缺的學習資源。
