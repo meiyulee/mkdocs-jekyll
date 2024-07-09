@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles
+title: 檔案室
 permalink: /archive/
 ---
 # News Archive
