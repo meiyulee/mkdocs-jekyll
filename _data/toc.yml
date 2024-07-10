@@ -1,3 +1,5 @@
+- title:"首頁"
+  url:/
 - title: "書籍簡介"
   url: "about"
   children:
