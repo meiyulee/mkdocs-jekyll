@@ -9,7 +9,7 @@
       url: "docs/getting-started#development"
     - title: Customization
       url: "docs/getting-started#customization"
-- title: "第一章"
+- title: "第一章  架構"
   url: "docs/chapter1"
   children:
     - title: 一、初學者對數據分析的基礎認識
@@ -24,31 +24,31 @@
       url: "docs/chapter1/S1-5"
     - title: 六、數據類型到分析方法再到分析工具
       url: "docs/chapter1/S1-6"      
-- title: "第二章"
+- title: "第二章 技術"
   url: "docs/chapter2"
   children:
     - title: 一、數據類型與對應分析方法
-      url: "docs/chapter1/S2-1"
+      url: "docs/chapter2/S2-1"
     - title: 二、數據乘載量：從數據量與數據轉換談起
-      url: "docs/chapter1/S2-2"
+      url: "docs/chapter2/S2-2"
     - title: 三、時間序列資料在數據分析中扮演的角色
-      url: "docs/chapter1/S2-3"
+      url: "docs/chapter2/S2-3"
     - title: 四、數據造假的概念與識別:無法驗證數據規律都要存疑
-      url: "docs/chapter1/S2-4"
+      url: "docs/chapter2/S2-4"
     - title: 五、初學者要了解工具的限制
-      url: "docs/chapter1/S2-5"
-- title: "第三章"
+      url: "docs/chapter2/S2-5"
+- title: "第三章  行動"
   url: "docs/chapter3"
   children:
     - title: 一、開始行動吧，每天都要看數據圖
-      url: "docs/chapter1/S3-1"
+      url: "docs/chapter3/S3-1"
     - title: 二、每天練習的三個重點：看兩張圖、觀察數據結果、試著寫下一個數據特徵
-      url: "docs/chapter1/S3-2"
+      url: "docs/chapter3/S3-2"
     - title: 三、建立看數據的習慣：用AI數據分析的MathAI幫助你
-      url: "docs/chapter1/S3-3"
+      url: "docs/chapter3/S3-3"
     - title: 四、觀察數據的重點與方法
-      url: "docs/chapter1/S3-4"
+      url: "docs/chapter3/S3-4"
     - title: 五、初學者需要避免的誤區：預測與原因分析
-      url: "docs/chapter1/S3-5"
+      url: "docs/chapter3/S3-5"
     - title: 六、看得懂數據不等於會解讀
-      url: "docs/chapter1/S3-6"   
+      url: "docs/chapter3/S3-6"   
