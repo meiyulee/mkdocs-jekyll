@@ -45,3 +45,48 @@
       url: "docs/chapter3/S3-5"
     - title: 六、看得懂數據不等於會解讀
       url: "docs/chapter3/S3-6"   
+- title: "第四章  AI與數據分析的碰撞"
+  url: "docs/chapter4"
+  children:
+    - title: 一、AI與數據分析的現狀
+      url: "docs/chapter4/S4-1"
+    - title: 二、AI做不到的數據分析挑戰
+      url: "docs/chapter4/S4-2"
+    - title: 三、數據分析與數據處理的區別
+      url: "docs/chapter4/S4-3"
+    - title: 四、數據分析中的AI應用：迴歸分析與數學AI
+      url: "docs/chapter4/S4-4"
+    - title: 五、數據分析的三大重點
+      url: "docs/chapter3/S4-5"
+- title: "第五章  趨勢分析與應用"
+  url: "docs/chapter5"
+  children:
+    - title: 一、趨勢概念之折線圖主導
+      url: "docs/chapter5/S5-1"
+    - title: 二、使用趨勢分析法理解數據
+      url: "docs/chapter5/S5-2"
+    - title: 三、數據之間的關係
+      url: "docs/chapter5/S5-3"
+    - title: 四、不同數據的精準趨勢圖
+      url: "docs/chapter5/S5-4"
+    - title: 五、觀察比較法與趨勢分析法
+      url: "docs/chapter5/S5-5" 
+    - title: 六、趨勢持續時間的挑戰
+      url: "docs/chapter5/S5-6" 
+    - title: 七、用AI數據分析結果的三步驟
+      url: "docs/chapter5/S5-7" 
+    - title: 八、AI數據分析的趨勢應用
+      url: "docs/chapter5/S5-8" 
+    - title: 九、AI數據分析的時間追蹤
+      url: "docs/chapter5/S5-9" 
+- title: "第六章  數據分析流程"
+  url: "docs/chapter6"
+  children:
+    - title: 一、數據蒐集
+      url: "docs/chapter6/S6-1"
+    - title: 二、數據處理
+      url: "docs/chapter6/S6-2"
+    - title: 三、數據分析
+      url: "docs/chapter6/S6-3"
+    - title: 四、數據解讀
+      url: "docs/chapter6/S6-4"
